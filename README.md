@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # twitter-stream
 Twitter-Kafka Data Pipeline
 
@@ -15,3 +16,6 @@ Apache Maven 2/3
 
 Detailed steps available here - 
 http://saurzcode.in/2015/02/kafka-producer-using-twitter-stream/
+=======
+# KafkaTweetProducer
+>>>>>>> 5d2f4cb8167619eccf9c4ba8442b3176d736f798
